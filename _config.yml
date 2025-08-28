@@ -1,0 +1,14 @@
+title: "Hoang Phuc Trinh"
+description: "Personal Academic Website"
+theme: jekyll-theme-minimal
+
+# Navigation bar (nếu theme hỗ trợ)
+nav:
+  - name: "Home"
+    link: /
+  - name: "About"
+    link: /about
+  - name: "Research"
+    link: /research
+  - name: "Contact"
+    link: /contact
